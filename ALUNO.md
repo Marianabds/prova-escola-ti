@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Mariana
+Nome: Mariana Barnabé da Silva
 
-RA: >>> PREENCHER <<<
+RA: 231235382
 
 Conta GitHub: @Marianabds
 
